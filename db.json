@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "5102",
+      "username": "yuyu",
+      "email": "yuyuyu@gmail.com",
+      "password": "12345",
+      "createdAt": "2025-07-07"
+    },
+    {
+      "id": "2255",
+      "username": "farhan",
+      "email": "cindo@gmail.com",
+      "password": "123454321",
+      "createdAt": "2025-07-08T18:00:31.725Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Hexohm V3",
+      "description": "Warna Purple, Mod only dan free liquid pembelian Hexohm ini",
+      "price": 3500000,
+      "stock": 8,
+      "category": "mod",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/108/MTA-116948619/hexohm_md-_mod_hexohm_v3_anodized_full02_kc0vkbuo.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pod X Signature FOOM",
+      "description": "Warna Green Satin, FULL SET dan free liquid didalamnya",
+      "price": 180000,
+      "stock": 15,
+      "category": "pod",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "3",
+      "name": "Liquid MAKNA V2 60ml",
+      "description": "Liquid rasa Taro Milk Cheese yang lagi populer dipakai orang-orang!!",
+      "price": 155000,
+      "stock": 30,
+      "category": "liquid",
+      "image": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full/catalog-image/90/MTA-180524401/brd-60517_liquid-vape-makna-v2-taro-milk-cheese-60ml-by-union-labs_full04-ae018544.jpg"
+    },
+    {
+      "id": "4",
+      "name": "dotAIO V2",
+      "description": "Warna Black, Device only dan AIO ini lagi ramai dipakai orang-orang",
+      "price": 1699999,
+      "stock": 5,
+      "category": "mod",
+      "image": "https://dotmod.com/cdn/shop/files/Black_B.png?crop=center&height=1200&v=1729195543&width=1200"
+    },
+    {
+      "id": "5",
+      "name": "Liquid Bakpia Kukus 60ml",
+      "description": "Liquid rasa bakpia kukus, berasa makan bakpianya beneran",
+      "price": 155000,
+      "stock": 20,
+      "category": "liquid",
+      "image": "https://d1d8o7q9jg8pjk.cloudfront.net/p/lg_6725de26783cd.png"
+    },
+    {
+      "id": "6",
+      "name": "Liquid THE ORAMA JUICE 60ml",
+      "description": "Liquid rasa srikaya dan ini yang banyak beli orang",
+      "price": 150000,
+      "stock": 47,
+      "category": "liquid",
+      "image": "https://vapeboss.co.id/assets/Product/20240716/a25d2a39-c063-4b26-9ede-6407c1c41c6a__FillWzM1NSwzNTVd.jpg"
+    }
+  ],
+  "orders": []
+}
